@@ -1,0 +1,10 @@
+{
+    "name": "server_node",
+    "version" : "0.0.1",
+    "decription": "Servidor em node js",
+    "main" : "index.js",
+    "repository": "https://github.com/MichelMatias92/server_node.git",
+    "author" : "Michel Matias",
+    "license": "MIT",
+    "private": false
+}   
